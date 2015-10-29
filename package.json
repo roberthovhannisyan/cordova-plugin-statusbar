@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-statusbar",
-  "version": "2.0.0-dev",
+  "name": "cordova-plugin-armsoft-statusbar",
+  "version": "1.1.0",
   "description": "Cordova StatusBar Plugin",
   "cordova": {
-    "id": "cordova-plugin-statusbar",
+    "id": "cordova-plugin-armsoft-statusbar",
     "platforms": [
       "android",
       "ios",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-statusbar"
+    "url": "https://github.com/roberthovhannisyan/cordova-plugin-statusbar"
   },
   "keywords": [
     "cordova",
